@@ -1,0 +1,13 @@
+server/node_modules
+client/node_modules
+.env
+node_modules
+.vercel
+server/.env
+Phase-1
+Phase-2
+Phase-3
+Phase-4
+Phase-5
+Project Demonstration
+Project Documentation
